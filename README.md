@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, Stacy Kelvin
+####  Passionate in AI and Cybersecurity
+![ Passionate in AI and Cybersecurity](https://media.licdn.com/dms/image/D4D16AQHuuq94oBA7aw/profile-displaybackgroundimage-shrink_350_1400/0/1718347902430?e=1726099200&v=beta&t=TRICXtfiRvB42HPfGZovVUNnwmsIEYoO4-aHHokDw3A)
 
-<!--
-**kelvinadaisky/kelvinadaisky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Stacy-Kelvin From Burundi, a student with a singular focus on mastering AI. With a foundation in cybersecurity basics and a burning passion for the potential of AI, I'm dedicated to immersing myself in this transformative field. I thrive on challenges, constantly seeking new opportunities to deepen my understanding and expertise.
 
-Here are some ideas to get you started:
+Skills: Python, C#, C++, Kotlin, HTML, CSS, JavaScript, Django, Microsoft SQL Server, PostgreSQL, GitHub, Docker, Linux, Microsoft Office, Adobe Illustrator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
