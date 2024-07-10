@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Stacy Kelvin</h1>
 <h3 align="center">A passionate in AI and Cybersecurity From Burundi</h3>
 
+I'm a student with a singular focus on mastering AI. With a foundation in cybersecurity basics and a burning passion for the potential of AI, I'm dedicated to immersing myself in this transformative field. I thrive on challenges, constantly seeking new opportunities to deepen my understanding and expertise.
+
 - 📫 How to reach me **kelvinadaiskyirutingabo2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
