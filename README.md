@@ -1,12 +1,22 @@
-<h1 align="center">Hi 👋, I'm Stacy Kelvin</h1>
-<h3 align="center">A passionate in AI and Cybersecurity From Burundi</h3>
+<h1 align="center">Hi 👋, I'm Stacy-Kelvin Adaisky IRUTINGABO</h1>
+<h3 align="center">AI & Cybersecurity Enthusiast | DeepTech Innovator from Burundi</h3>
 
-I'm a student with a singular focus on mastering AI. With a foundation in cybersecurity basics and a burning passion for the potential of AI, I'm dedicated to immersing myself in this transformative field. I thrive on challenges, constantly seeking new opportunities to deepen my understanding and expertise.
+I'm an aspiring AI researcher passionate about leveraging artificial intelligence for sustainable development and social impact.  
+Currently pursuing a Bachelor's in Information Systems Engineering in Türkiye, I have developed a solid foundation in **cybersecurity**, **data science**, and **machine learning**.  
 
-- 📫 How to reach me **kelvinadaiskyirutingabo2002@gmail.com**
+I’m particularly interested in **AI for public health**, **predictive analytics**, and **ethical technology development**.  
+I thrive on solving complex problems, working in multicultural environments, and turning ideas into impactful, data-driven solutions.
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 I’m currently working as an **AI Research Intern at Technology Development Group (TDG)**, focusing on **Large Language Models (LLMs)**, **AI agents**, and **Retrieval-Augmented Generation (RAG)** systems.  
+- 🎯 My goal: to become a leading voice in **AI innovation for public good**.  
+- 📫 Reach me at **kelvinadaiskyirutingabo2002@gmail.com**
+
+<h3 align="left">🌍 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kelvinadaisky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelvinadaisky" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@kelvinadaisky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kelvinadaisky" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kelvinadaisky" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kelvinadaisky" height="30" width="40" />
+</a>
+<a href="https://www.youtube.com/@kelvinadaisky" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kelvinadaisky" height="30" width="40" />
+</a>
 </p>
