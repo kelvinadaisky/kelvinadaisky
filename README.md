@@ -8,7 +8,7 @@ I’m particularly interested in **AI for public health**, **visual intelligence
 I thrive on solving complex problems, working in multicultural environments, and turning ideas into impactful, data-driven solutions.
 
 - 🔭 I’m currently working as an **AI & Data Engineering Intern (R&D) at Technology Development Group (TDG)**, focusing on **Large Language Models (LLMs)**, **AI agents**, and **Retrieval-Augmented Generation (RAG)** systems.  
-- 🎯 My goal: to become a leading voice in **AI innovation for public good.  
+- 🎯 My goal: to become a leading voice in AI innovation for public good.  
 - 📫 Reach me at **kelvinadaiskyirutingabo2002@gmail.com**
 
 <h3 align="left">🌍 Connect with me:</h3>
