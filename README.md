@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Stacy-Kelvin Adaisky IRUTINGABO</h1>
-<h3 align="center">AI & Cybersecurity Enthusiast | DeepTech Innovator from Burundi</h3>
+<h3 align="center">AI & Computer Vision Enthusiast | DeepTech Innovator from Burundi</h3>
 
 I'm an aspiring AI researcher passionate about leveraging artificial intelligence for sustainable development and social impact.  
-Currently pursuing a Bachelor's in Information Systems Engineering in Türkiye, I have developed a solid foundation in **cybersecurity**, **data science**, and **machine learning**.  
+Currently pursuing a Bachelor's in Information Systems Engineering in Türkiye, I have developed a solid foundation in **data science**, **machine learning**, and **computer vision**.  
 
-I’m particularly interested in **AI for public health**, **predictive analytics**, and **ethical technology development**.  
+I’m particularly interested in **AI for public health**, **visual intelligence**, **predictive analytics**, and **ethical technology development**.  
 I thrive on solving complex problems, working in multicultural environments, and turning ideas into impactful, data-driven solutions.
 
-- 🔭 I’m currently working as an **AI Research Intern at Technology Development Group (TDG)**, focusing on **Large Language Models (LLMs)**, **AI agents**, and **Retrieval-Augmented Generation (RAG)** systems.  
-- 🎯 My goal: to become a leading voice in **AI innovation for public good**.  
+- 🔭 I’m currently working as an **AI & Data Engineering Intern (R&D) at Technology Development Group (TDG)**, focusing on **Large Language Models (LLMs)**, **AI agents**, and **Retrieval-Augmented Generation (RAG)** systems.  
+- 🎯 My goal: to become a leading voice in **AI innovation for public good.  
 - 📫 Reach me at **kelvinadaiskyirutingabo2002@gmail.com**
 
 <h3 align="left">🌍 Connect with me:</h3>
